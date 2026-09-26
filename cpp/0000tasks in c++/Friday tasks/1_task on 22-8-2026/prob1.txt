@@ -1,0 +1,99 @@
+/*
+===========================================================
+        DSA TASK 1: STUDENT MARKS ANALYZER
+===========================================================
+
+Problem Statement:
+
+Imagine you are making a small program for a college teacher.
+
+The teacher enters the marks of 5 students.
+Your program should analyze those marks.
+
+Requirements:
+
+1. Take marks of 5 students using an array.
+
+2. Print all the marks.
+
+3. Find the highest mark.
+
+4. Find the lowest mark.
+
+5. Calculate the average marks.
+
+6. Count how many students passed.
+   Passing marks = 40
+
+7. Count how many students failed.
+
+-----------------------------------------------------------
+Example Input:
+
+Enter marks:
+65
+32
+89
+45
+27
+
+-----------------------------------------------------------
+Expected Output:
+
+Marks:
+65 32 89 45 27
+
+Highest marks: 89
+Lowest marks: 27
+Average marks: 51.6
+Passed students: 3
+Failed students: 2
+
+-----------------------------------------------------------
+Concepts to Practice:
+
+- Variables
+- Input / Output
+- Arrays
+- for loop
+- if / else
+- Array traversal
+- Sum and average
+- Counting
+- Finding maximum
+- Finding minimum
+
+-----------------------------------------------------------
+IMPORTANT:
+
+Do NOT use:
+
+- Functions
+- Classes
+- Vectors
+- sort()
+- max_element()
+- min_element()
+- Any advanced C++ functions
+
+Solve this using only the basic concepts you have learned.
+
+-----------------------------------------------------------
+BONUS CHALLENGE:
+
+After completing the above problem:
+
+Ask the teacher for a mark to search for.
+
+Example:
+
+Enter mark to search: 45
+
+Output:
+
+45 is present.
+
+This will help you practice Linear Search.
+
+===========================================================
+*/

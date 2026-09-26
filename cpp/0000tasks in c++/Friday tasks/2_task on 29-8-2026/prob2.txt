@@ -1,0 +1,106 @@
+Sure — you want the **problem statement written as comments directly inside the C++ code**, so you can keep it with your practice file.
+
+```cpp
+/*
+===========================================================
+        REAL-WORLD TASK: SUPERMARKET BILLING SYSTEM
+===========================================================
+
+Problem Statement:
+
+You are creating a simple billing system for a supermarket.
+
+A customer buys 5 different products.
+
+For each product, the program should ask the user to enter:
+
+1. Product name
+2. Product price
+3. Quantity
+
+The program should then calculate:
+
+1. Total price for each product
+   Total = Price × Quantity
+
+2. Grand total of all 5 products.
+
+3. Apply a discount according to the grand total:
+
+   Grand Total          Discount
+   --------------------------------
+   ₹0 - ₹999            No discount
+   ₹1000 - ₹4999        5%
+   ₹5000 - ₹9999        10%
+   ₹10000 or more       15%
+   
+4. Calculate the discount amount.
+   formula : discount_amount = Grand_total * discount_percentage / 100.0;
+
+5. Calculate the final amount after discount.
+
+Finally, display a bill containing:
+
+- Product name
+- Price
+- Quantity
+- Total price
+- Grand total
+- Discount percentage
+- Discount amount
+- Final amount
+
+Example:
+
+========== SUPERMARKET BILL ==========
+
+Product       Price     Quantity    Total
+------------------------------------------------
+Rice          500       2           1000
+Milk          60        5           300
+Bread         40        3           120
+Soap          50        4           200
+Oil           150       2           300
+
+------------------------------------------------
+Grand Total:                 ₹1920
+Discount:                    5%
+Discount Amount:             ₹96
+Final Amount:                ₹1824
+
+========================================
+
+
+CONCEPTS TO USE:
+
+- cin / cout
+- Variables
+- if / else if / else
+- for loop
+- Arrays
+- Strings
+
+
+DO NOT USE YET:
+
+- Functions
+- Classes / OOP
+- vector
+- struct
+- Advanced STL
+- File handling
+
+===========================================================
+*/
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    // Write your solution here
+
+
+    return 0;
+}
+```
