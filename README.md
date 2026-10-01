@@ -1,4 +1,4 @@
-# Striver-A2Z-DSA
+
 
 # DSA in C++ and  python
 
