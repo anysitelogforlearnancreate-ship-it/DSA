@@ -1,0 +1,74 @@
+
+
+# Mini Project: Student Result Management System
+
+![How Students Calculate Grades: A Complete Step-by-Step Guide](https://images.openai.com/static-rsc-4/9U0n_9-dxE1uqOLFIQcNd-VlkvEDf_ynU9NoppTFSzYca-WazMFR4nuq0alVXgLwPtP6OSG_y7-P9xMS5moxST9UlwRjKVUY7xRuko8xtLn5F9WqiLqdOC8mLaBnf9TyK3YZNTP0pMBHeUtsdDMlUVdczL1-HVkt4gqnC3fz_wI?purpose=inline)
+
+Add to Favorites
+
+## Problem statement
+
+You are creating a simple C++ program for a teacher to calculate a student's result.
+
+Your program should:
+
+1. Take input: Ask for the student's name, roll number, and marks in 3 subjects.
+
+2. Use data types: Store the name as a `string`, roll number as an `int`, and marks as integers.
+
+3. Use arrays: Store the three subject marks in an array.
+
+4. Use loops: Use a loop to input the marks and calculate the total and average.
+
+5. Use if-else: Determine whether the student has passed or failed. The student must score at least 35 marks in every subject to pass.
+
+6. Use switch case: Display a menu:
+
+   * `1` — Display student details
+
+   * `2` — Display total and average
+
+   * `3` — Display pass/fail result
+
+7. Use functions: Create separate functions for calculating the total and displaying the result.
+
+8. Use pass by reference: Create a function that updates a student's bonus marks by adding 5 marks to one subject.
+
+9. Use STL pairs: Store the roll number and total marks together using a `pair`.
+
+10. Use time complexity: Think about the time complexity of the loop that processes the three subjects.
+
+## Sample input
+
+```
+Enter student name: Rahul
+Enter roll number: 101
+
+Enter marks in 3 subjects:
+78
+65
+82
+
+Choose an option: 2
+```
+
+## Expected output
+
+```
+Total marks: 225
+Average marks: 75
+```
+
+## Your challenge
+
+* Write the complete program in C++.
+
+* Use only the concepts you've learned so far.
+
+* You can use `#include <bits/stdc++.h>` and `using namespace std;`.
+
+* Don't worry about making it perfect on your first attempt.
+
+Hint: Start with `main()`, declare your variables and array, and then build the program one step at a time.
+
+Try writing the code yourself and send it to me. I'll review it like a coding mentor, point out mistakes, and give you hints before showing any corrections.
